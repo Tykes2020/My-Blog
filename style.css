@@ -1,0 +1,47 @@
+*{
+    text-align: center;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.travel_main Div{
+    border: 1px solid lightgrey;
+}
+.travel_mainDiv img{
+    width: 100%;
+}
+.travel_mainDiv h5, .travel_mainDiv p{
+    margin: 20px;
+}
+#ooty{
+    color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    background-color:salmon;
+}
+body{
+    background-color: aquamarine;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color: rgba(245, 164, 14, 0.897);
+}
+.book{
+    margin-bottom: 20px;
+}
+#contact iframe{
+    width: 100%;
+}
+#one{
+     width: 20%;
+     height: 150px;
+}
